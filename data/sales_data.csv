@@ -1,0 +1,10 @@
+date,product,category,price,quantity,stock
+2025-01-01,Notebook,Electronics,3500,2,10
+2025-01-02,Mouse,Electronics,50,5,50
+2025-01-03,Keyboard,Electronics,120,3,30
+2025-01-04,Monitor,Electronics,900,1,15
+2025-01-05,Notebook,Electronics,3500,1,8
+2025-01-06,Mouse,Electronics,50,10,40
+2025-01-07,Keyboard,Electronics,120,4,25
+2025-01-08,Monitor,Electronics,900,2,12
+2025-01-09,Mouse,Electronics,50,8,35
